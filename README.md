@@ -12,8 +12,8 @@ I will summarize the diet this way:
 I think it is better to focus on what I CAN eat. So I have made this booklet. 
 
 * [Recipes](Recipes.md)
-* [Shopping List](../ShoppingList.md)
-* [Supplements](../Supplements.md)
+* [Shopping List](ShoppingList.md)
+* [Supplements](Supplements.md)
 
 If you want more information, or read the resource for most of this booklet, see this link: 
 https://www.westonaprice.org/health-topics/modern-diseases/hidden-in-plain-sight-histamine-problems/
