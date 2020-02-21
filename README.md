@@ -11,7 +11,7 @@ I will summarize the diet this way:
 
 I think it is better to focus on what I CAN eat. So I have made this booklet. 
 
-* [Recipes](../Recipes.md)
+* [Recipes](Recipes.md)
 * [Shopping List](../ShoppingList.md)
 * [Supplements](../Supplements.md)
 
