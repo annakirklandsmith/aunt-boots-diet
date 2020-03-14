@@ -34,6 +34,7 @@
 * Capters in Salt
 
 ## Leafy Greens
+* Kale
 * Collards
 
 ## Pea Sprouts

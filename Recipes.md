@@ -11,7 +11,7 @@ Soak, then cook black rice. Mix chicken stock and coconut milk together, cook. A
 ##  #2 Mozzarella Ball Soup
 * Onion
 * Celery
-* Chick stocks
+* Chicken stock
 * Pea Sprouts
 * Mozarella Balls
 
@@ -28,7 +28,14 @@ Sautee chopped onion and celery together. Add to chicken stock, as well as other
 
 Food process herbs with plenty of oil and water so that you have a paste. Add honey to taste. Add some of this paste to chicken stock. Add cut up hard-boiled eggs.
 
-##  #4 Collards & Rice
+##  #4 Kale & Rice
+* Coconut Milk
+* Cooked Rice
+* Kale
+
+Boil down a can of coconut milk until it is reduced by about half. Sautee kale in fat or oil. Add all ingredients with already cooked rice. 
+
+##  #4 Also Collards & Rice
 * Onion
 * Garlic
 * Celery
@@ -36,6 +43,7 @@ Food process herbs with plenty of oil and water so that you have a paste. Add ho
 * Capers packed in salt
 
 Boil collards for about three hours. Strain. Sautee onion, celery, and garlic. Add to collards. Mix in some capers. Delicious! Serve with rice. 
+
 
 ##  #5 Apples & Oatmeal
 * Apples
